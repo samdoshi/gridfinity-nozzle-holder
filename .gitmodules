@@ -1,0 +1,6 @@
+[submodule "gridfinity-rebuilt-openscad"]
+	path = gridfinity-rebuilt-openscad
+	url = https://github.com/kennetek/gridfinity-rebuilt-openscad.git
+[submodule "threads-scad"]
+	path = threads-scad
+	url = https://github.com/rcolyer/threads-scad.git
